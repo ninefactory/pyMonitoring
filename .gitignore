@@ -1,0 +1,12 @@
+
+## Except File
+log.txt
+
+## Except Dir
+log/
+log_tz/
+
+## Except Ext
+*.bat
+
+
